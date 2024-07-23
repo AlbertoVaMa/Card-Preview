@@ -1,0 +1,20 @@
+
+:root{
+    --YelPrim: hsl(47, 88%, 63%);
+    --White: hsl(0, 0%, 100%);
+    --Grey: hsl(0, 0%, 50%);
+    --Black: hsl(0, 0%, 7%);
+    --fontPrin: 'Figtree',sans-serif;
+}
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
+    
+}
